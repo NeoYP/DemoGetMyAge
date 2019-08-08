@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo GetMyAge</string>
+    <string name="yash">Your age shows here</string>
+    <string name="gma">Get my age</string>
+</resources>
